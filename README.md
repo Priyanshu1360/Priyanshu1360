@@ -25,6 +25,10 @@ Building scalable Retrieval-Augmented Generation (RAG) systems, AI assistants, a
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Priyanshu1360&style=for-the-badge&color=0e75b6"/>
+</p>
+
 </p>
 
 ---
@@ -159,6 +163,3 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Priyanshu1360&style=for-the-badge&color=0e75b6"/>
-</p>
