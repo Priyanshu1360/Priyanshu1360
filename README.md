@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-Hi 👋 I'm Priyanshu Parihar
+Hi, I'm Priyanshu Parihar
 </h1>
 
 <h3 align="center">
