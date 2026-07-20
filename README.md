@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Priyanshu Parihar 👋</h1>
+<h1 align="center">Hi, I'm Priyanshu Parihar </h1>
 
 <p align="center">
 <b>AI Engineer • Generative AI • Production RAG Systems • FastAPI Developer</b>
@@ -25,9 +25,6 @@ Building scalable Retrieval-Augmented Generation (RAG) systems, AI assistants, a
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/Priyanshu1360">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
@@ -81,7 +78,7 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 
 # Featured Projects
 
-## AIbalance AI — Financial Document Intelligence & RAG Platform
+## Alphalence AI — Financial Document Intelligence & RAG Platform
 
 **Tech Stack**
 
@@ -137,13 +134,7 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 
 ---
 
-# GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu1360&theme=algolia&no-frame=true&column=4"/>
-</p>
-
----
 
 # Certifications
 
@@ -169,9 +160,6 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/Priyanshu1360">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </p>
 
