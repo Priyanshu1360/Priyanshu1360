@@ -111,12 +111,13 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1360&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1360&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshu1360&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshu1360&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyanshu1360&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Priyanshu1360&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
