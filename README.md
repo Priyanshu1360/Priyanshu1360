@@ -97,7 +97,7 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 
 ---
 
-## Medical-Grade AI Assistant & Knowledge Spine — Healthcare RAG
+## Medical-Grade AI Assistant & Knowledge Spine — PharmaSpine AI
 
 **Tech Stack**
 
