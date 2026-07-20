@@ -1,603 +1,305 @@
-<h1 align="center">Hi, I'm Priyanshu Parihar</h1>
+<!-- ========================================================= -->
+<!--                 PRIYANSHU PARIHAR GITHUB PROFILE           -->
+<!-- ========================================================= -->
 
-
+<h1 align="center">
+Hi 👋 I'm Priyanshu Parihar
+</h1>
 
 <h3 align="center">
-
-AI/ML Engineer • Production RAG Systems • LLM Applications • Data Analytics
-
+AI Engineer • GenAI • RAG Systems • LLM Applications
 </h3>
 
-
+<p align="center">
+Building production-ready AI applications with FastAPI, LangChain, LangGraph, Qdrant & React.
+</p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Production-Grade+RAG+Systems;Healthcare+%26+Financial+AI;Hybrid+Retrieval+%2B+Self-RAG;FastAPI+%7C+LangGraph+%7C+Qdrant;AI+Safety+%26+Guardrails" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Production+RAG+Developer;GenAI+%7C+LangChain+%7C+LangGraph;FastAPI+Backend+Developer;Building+Scalable+LLM+Applications" />
 
 </p>
 
+---
 
+## 🌐 Connect With Me
 
 <p align="center">
 
-
+<a href="https://www.linkedin.com/in/priyanshu-parihar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 <a href="mailto:priyanshuparihar207@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-
-
-<a href="https://linkedin.com">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<a href="https://personal-portfolio-gray-eight-59.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-
-
-<a href="https://github.com/">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<a href="https://github.com/Priyanshu1360">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-
-
 </p>
 
+---
 
+# 👨‍💻 About Me
 
-<p align="center">
+🎓 B.Tech Information Technology Student
 
-<img src="https://komarev.com/ghpvc/?username=priyanshuparihar&label=Profile+Views&color=0e75b6&style=flat-square"/>
+🤖 Passionate AI Engineer focused on Production AI Systems
 
-</p>
+🧠 Specialized in
 
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- LangGraph Workflows
+- FastAPI Backend Development
+- Vector Databases
+- LLM Applications
 
+🚀 Currently Building
+
+- Finance Copilot
+- PharmaSpine AI
+- Self-Correcting RAG Pipeline
+
+🌱 Currently Learning
+
+- Advanced AI Agents
+- MCP
+- Multi-Agent Systems
+- Cloud Deployment
+- Kubernetes
 
 ---
 
+# 🚀 Tech Stack
 
-
-# 💫 About Me
-
-
-
-I'm an aspiring **AI/ML Engineer** passionate about developing **production-grade Retrieval-Augmented Generation (RAG)** systems and scalable AI applications.
-
-
-
-My expertise lies in combining **Large Language Models**, **Hybrid Retrieval**, **Knowledge Graphs**, and **Backend Engineering** to build intelligent systems for healthcare and financial domains.
-
-
-
-I enjoy solving real-world AI challenges by designing systems that are **accurate, reliable, secure, and production-ready.**
-
-
-
----
-
-
-
-# 🚀 Current Focus
-
-
-
-Production RAG Pipelines
-
-Self-RAG Architectures
-
-Hybrid Retrieval
-
-LangGraph Workflows
-
-AI Guardrails
-
-Knowledge Graphs
-
-Semantic Search
-
-Enterprise AI Applications
-
-
-
----
-
-
-
-# 💻 Tech Stack
-
-
-
-## Languages
-
-
+### Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript"/>
 
 </p>
 
-
-
----
-
-
-
-## AI / Machine Learning
-
-
+### Frontend
 
 <p>
 
-
-
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Self--RAG-0A66C2?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/LangGraph-4B32C3?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/LangSmith-FF6B35?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-red?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/NLP-green?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Agentic%20AI-purple?style=flat-square"/>
-
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
 </p>
 
-
-
----
-
-
-
-## AI Models
-
-
-
-Qwen3 Embedding
-
-Sentence Transformers
-
-Llama 3
-
-Phi-3.5
-
-
-
----
-
-
-
-## Backend
-
-
+### Backend
 
 <p>
 
-
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
 
 </p>
 
-
-
----
-
-
-
-## Databases
-
-
+### AI / ML
 
 <p>
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
+</p>
+
+**Also Working With**
+
+- LangChain
+- LangGraph
+- Hugging Face
+- Ollama
+- Groq
+- OpenAI API
+- Qdrant
+
+### Database
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 
-
-
-<img src="https://img.shields.io/badge/Qdrant-EA4335?style=flat-square"/>
-
-
-
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square"/>
-
-
-
 </p>
 
-
-
----
-
-
-
-## Data Analytics
-
-
-
-Power BI
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-
-
----
-
-
-
-## Tools
-
-
+### Tools
 
 <p>
 
-
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
 
 </p>
 
+---
 
+# 🔥 Featured Projects
+
+## 💰 Finance Copilot
+
+Production-grade Financial RAG Application
+
+✨ Features
+
+- Hybrid Retrieval
+- Semantic Search
+- FastAPI
+- LangGraph
+- Qdrant
+- LLM Orchestration
 
 ---
 
+## 🏥 PharmaSpine AI
 
+Clinical Intelligence Platform
 
-# 💼 Experience
+✔ Medical RAG
 
+✔ Drug Label Analysis
 
+✔ Clinical Governance
 
-## AI/ML Engineer Intern
+✔ Semantic Search
 
-### Mobcoder
-
-
-
-**March 2026 — July 2026**
-
-
-
-Worked on enterprise-grade conversational AI platforms with a focus on Retrieval-Augmented Generation.
-
-
-
-### Responsibilities
-
-
-
-Developed production-grade RAG pipelines.
-
-Built retrieval pipelines using vector databases.
-
-Designed agentic AI workflows with LangGraph.
-
-Implemented AI guardrails and prompt injection defense.
-
-Optimized low-latency AI systems.
-
-Worked across PostgreSQL, Neo4j, and Qdrant.
-
-
+✔ Zero Trust AI
 
 ---
 
+## 🤖 Self-Correcting RAG Pipeline
 
+An intelligent Retrieval-Augmented Generation pipeline that:
 
-# 🚀 Featured Projects
-
-
-
-## 📈 AlphaLens — Financial Document Intelligence & RAG Platform
-
-
-
-Enterprise-grade Financial AI assistant for intelligent document search and question answering.
-
-
-
-### Highlights
-
-
-
-Hybrid Search
-
-BM25 Retrieval
-
-Cross Encoder Reranking
-
-LangGraph Query Routing
-
-Self-RAG Reflection
-
-Semantic Caching
-
-AI Guardrails
-
-
-
-**Tech Stack**
-
-
-
-FastAPI
-
-LangChain
-
-LangGraph
-
-Qdrant
-
-PostgreSQL
-
-Sentence Transformers
-
-
+- Grades retrieved documents
+- Retries retrieval automatically
+- Self-corrects poor context
+- Improves answer quality
 
 ---
 
+## 📄 Question Paper Generator
 
+AI-powered Question Paper Generator using
 
-## 🏥 Medical-Grade AI Assistant & Knowledge Spine
-
-
-
-A healthcare conversational AI system designed for safe, grounded, citation-backed responses.
-
-
-
-### Features
-
-
-
-Multi-database Architecture
-
-PostgreSQL
-
-Neo4j Knowledge Graph
-
-Qdrant Vector Search
-
-Semantic Cache
-
-AI Governance
-
-Prompt Injection Defense
-
-Citation-backed Answer Generation
-
-
-
-**Tech Stack**
-
-
-
-Python
-
-FastAPI
-
-Neo4j
-
-Qdrant
-
-PostgreSQL
-
-Llama 3
-
-Phi-3.5
-
-
+- React
+- Next.js
+- FastAPI
+- ML Models
 
 ---
-
-
-
-# 🎓 Education
-
-
-
-## Bachelor of Technology (Information Technology)
-
-
-
-**M.L.V. Textile & Engineering College**
-
-
-
-**CGPA: 8.77**
-
-
-
----
-
-
-
-# 🏆 Certifications
-
-
-
-Oracle Certified AI Foundations Associate
-
-OOSC Conference — IIT Kanpur (2025)
-
-Responsive Web Design
-
-
-
----
-
-
 
 # 📊 GitHub Analytics
 
-
-
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1360&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-
-
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu1360&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
-
-
-<p align="center">
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-
-
-</p>
-
-
 
 ---
 
-
-
-# 🏅 GitHub Trophies
-
-
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1360&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu1360&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
 
+# 📜 Certifications
 
+🏅 Become an AI Engineer: RAG Systems, GenAI & LangChain
+
+🏅 Data Analytics Internship
+
+🏅 Deep Learning
+
+🏅 Infor LN ERP Development
+
+---
+
+# 💼 Open Source Interests
+
+✔ Artificial Intelligence
+
+✔ Generative AI
+
+✔ RAG Systems
+
+✔ LangGraph
+
+✔ FastAPI
+
+✔ Open Source
+
+✔ Backend Engineering
+
+✔ Full Stack Development
+
+---
 
 # 🎯 2026 Goals
 
+✅ Build Production AI Products
 
+✅ Contribute to Open Source
 
-Build enterprise AI systems.
+✅ Master Agentic AI
 
-Master Agentic AI workflows.
+✅ Publish Research
 
-Advance production-grade RAG architectures.
-
-Contribute to open-source AI projects.
-
-Publish impactful AI research.
-
-
+✅ Land AI Engineer Role
 
 ---
 
+# 📫 Reach Me
 
+📧 **Email**
 
-# 🤝 Let's Connect
+priyanshuparihar207@gmail.com
 
+🌐 **Portfolio**
 
+https://personal-portfolio-gray-eight-59.vercel.app/
 
-<p align="center">
+💼 **LinkedIn**
 
+https://www.linkedin.com/in/priyanshu-parihar/
 
+🐙 **GitHub**
 
-<a href="mailto:priyanshuparihar207@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-
-<a href="https://linkedin.com">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-
-<a href="https://github.com/">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-
-
-</p>
-
-
+https://github.com/Priyanshu1360
 
 ---
 
-
-
 <p align="center">
 
-
-
-### Building intelligent AI systems that are scalable, reliable, and production-ready 🚀
-
-
+⭐ Thanks for visiting my profile! ⭐
 
 </p>
