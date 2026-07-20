@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Parihar</h1>
+<h1 align="center">Hi, I'm Priyanshu Parihar</h1>
 
 <p align="center">
 <b>AI Engineer • Generative AI • RAG Systems • FastAPI • LangGraph</b>
@@ -25,9 +25,7 @@ Building production-ready AI applications with modern LLM technologies.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/Priyanshu1360">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+
 </p>
 
 ---
