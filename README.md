@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Priyanshu Parihar</h1>
+<h1 align="center">Hi, I'm Priyanshu Parihar 👋</h1>
 
 <p align="center">
-<b>AI Engineer • Generative AI • RAG Systems • FastAPI • LangGraph</b>
+<b>AI Engineer • Generative AI • Production RAG Systems • FastAPI Developer</b>
 </p>
 
 <p align="center">
-Building production-ready AI applications with modern LLM technologies.
+Building scalable Retrieval-Augmented Generation (RAG) systems, AI assistants, and LLM-powered applications with a focus on low-latency retrieval, AI safety, and production-ready backend architecture.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Generative+AI+Developer;Production+RAG+Systems;FastAPI+%7C+LangChain+%7C+LangGraph;Building+Scalable+LLM+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer;Production+RAG+Developer;Generative+AI;FastAPI+%7C+LangGraph+%7C+Qdrant;Building+LLM+Applications"/>
 </p>
 
 <p align="center">
@@ -25,26 +25,16 @@ Building production-ready AI applications with modern LLM technologies.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-
+<a href="https://github.com/Priyanshu1360">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
 # About Me
 
-I'm an AI Engineer passionate about building production-ready Generative AI applications using modern LLM architectures.
-
-My interests include:
-
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- LangGraph Workflows
-- FastAPI Backend Development
-- Vector Databases
-- LLM Evaluation
-- AI Automation
-
-Currently building intelligent AI applications focused on finance, healthcare, and enterprise use cases.
+I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Generation (RAG) systems and LLM-powered applications. My work centers on hybrid retrieval, AI safety, agentic workflows, and scalable backend architecture for real-world healthcare and financial AI solutions.
 
 ---
 
@@ -53,92 +43,71 @@ Currently building intelligent AI applications focused on finance, healthcare, a
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-### Frontend
+### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-</p>
-
-### AI / GenAI
-
-<p>
-
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/LangSmith-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
 </p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker,git,github,vscode" />
+</p>
+
+---
+
+# Experience
+
+## AI/ML Engineer Intern — Mobcoder
+
+**March 2026 – July 2026**
+
+- Developed production-grade Retrieval-Augmented Generation (RAG) platforms for finance and healthcare.
+- Built hybrid retrieval pipelines, agentic workflows, and AI safety guardrails.
+- Designed scalable backend APIs using FastAPI and vector databases.
+- Worked with PostgreSQL, Qdrant, Neo4j, LangGraph, and LLM orchestration.
 
 ---
 
 # Featured Projects
 
-## Finance Copilot
+## AIbalance AI — Financial Document Intelligence & RAG Platform
 
-Production-grade Financial RAG System
+**Tech Stack**
 
-- FastAPI
-- LangGraph
-- Hybrid Retrieval
-- Qdrant
-- LLM Orchestration
+`Python` `FastAPI` `Next.js` `LangGraph` `Qdrant` `PostgreSQL` `Sentence Transformers`
 
----
+### Highlights
 
-## PharmaSpine AI
-
-Clinical Intelligence Platform powered by Generative AI
-
-- Medical RAG
-- Semantic Search
-- Clinical Governance
-- Zero-Trust AI
+- Built a production-grade hybrid RAG pipeline using dense vector retrieval and BM25 reranking.
+- Designed LangGraph-based agent workflows with Self-RAG reflection loops to reduce hallucinations.
+- Implemented AI guardrails including prompt-injection defense, PII masking, and semantic caching.
+- Achieved sub-second document retrieval with optimized retrieval and caching.
 
 ---
 
-## Self-Correcting RAG Pipeline
+## Medical-Grade AI Assistant & Knowledge Spine — Healthcare RAG
 
-An advanced Retrieval-Augmented Generation pipeline capable of:
+**Tech Stack**
 
-- Context Grading
-- Intelligent Retrieval Retry
-- Hallucination Reduction
-- Response Refinement
+`Python` `FastAPI` `PostgreSQL` `Neo4j` `Qdrant` `Llama-3.3` `Phi-3.5` `Qwen3 Embeddings`
 
----
+### Highlights
 
-## AI Question Paper Generator
-
-AI-powered Question Paper Generator using React, Next.js and FastAPI.
+- Architected a multi-database AI infrastructure combining PostgreSQL, Neo4j, and Qdrant.
+- Built a clinical-grade conversational assistant powered by Retrieval-Augmented Generation.
+- Designed an LLM governance gateway with semantic caching and parallel retrieval.
+- Integrated AI safety guardrails including adversarial prompt detection and pharmacovigilance validation.
 
 ---
 
@@ -163,9 +132,7 @@ AI-powered Question Paper Generator using React, Next.js and FastAPI.
 # Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1360&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -173,31 +140,16 @@ AI-powered Question Paper Generator using React, Next.js and FastAPI.
 # GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu1360&theme=algolia&no-frame=true&column=4"/>
-
 </p>
-
----
-
-# Current Focus
-
-- Production RAG Systems
-- AI Agents
-- LangGraph
-- MCP
-- FastAPI
-- Multi-Agent Systems
-- Open Source Contributions
 
 ---
 
 # Certifications
 
-- Become an AI Engineer: RAG Systems, GenAI & LangChain
-- Data Analytics Internship
-- Deep Learning
-- Infor LN ERP Development
+- Oracle Certified AI Foundations Associate
+- OOSC Conference – IIT Kanpur (September 2025)
+- Responsive Web Design
 
 ---
 
@@ -206,7 +158,7 @@ AI-powered Question Paper Generator using React, Next.js and FastAPI.
 <p align="center">
 
 <a href="mailto:priyanshuparihar207@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/priyanshu-parihar/">
@@ -224,13 +176,5 @@ AI-powered Question Paper Generator using React, Next.js and FastAPI.
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Priyanshu1360&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
----
-
-<p align="center">
-<i>"Building AI that solves real-world problems."</i>
 </p>
