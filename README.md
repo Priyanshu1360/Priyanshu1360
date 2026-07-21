@@ -44,7 +44,7 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### AI & Machine Learning
@@ -62,7 +62,7 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,docker,github,vscode" />
 </p>
 
 ---
