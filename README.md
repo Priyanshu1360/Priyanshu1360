@@ -141,6 +141,7 @@ I'm an AI Engineer focused on designing production-grade Retrieval-Augmented Gen
 - Oracle Certified AI Foundations Associate
 - OOSC Conference – IIT Kanpur (September 2025)
 - Responsive Web Design
+- RAG Systems, Generative AI & LangChain
 
 ---
 
